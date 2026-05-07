@@ -392,6 +392,6 @@ FINDING 3 — No ADX < 20 examples in training data
 
 if __name__ == "__main__":
     print("Running data audit on finetune_instructions.jsonl...")
-    clean = build_clean_dataset("finetune_instructions.jsonl")
+    clean = build_clean_dataset("slm_intern_data/finetune_instructions.jsonl")
     print(f"\nClean training set: {len(clean)} records")
     print(DATA_AUDIT_FINDINGS)
