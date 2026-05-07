@@ -1,0 +1,24 @@
+# requirements.txt
+# All dependencies for the NIFTY options signal pod.
+# Versions are pinned to ensure reproducibility across environments.
+# Training runs on Kaggle free-tier GPU (T4). Inference runs on CPU.
+
+# ── Core ML stack ─────────────────────────────────────────────────────────────
+torch==2.2.1
+transformers==4.40.0
+peft==0.10.0                  # LoRA fine-tuning via PEFT
+trl==0.8.6                    # SFTTrainer for instruction fine-tuning
+bitsandbytes==0.43.1          # 4-bit quantization (NF4)
+accelerate==0.29.3            # device_map and mixed precision support
+datasets==2.19.0              # HuggingFace Dataset for training
+
+# ── Experiment tracking ───────────────────────────────────────────────────────
+mlflow==2.12.1
+
+# ── Data handling ─────────────────────────────────────────────────────────────
+pandas==2.2.2
+pyarrow==16.0.0               # parquet support for market_states.parquet
+numpy==1.26.4
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+scipy==1.13.0                 # wilson CI and statistical functions
