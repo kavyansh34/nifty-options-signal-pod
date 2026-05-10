@@ -158,6 +158,8 @@ Three issues found in `finetune_instructions.jsonl` before training:
 
 ## MLflow experiments
 
+Compared LoRa rank8 v/s rank 4 --- found rank 8 more better.
+
 | Run | Rank | Alpha | LR | Epochs | Sampling | Train Loss |
 |-----|------|-------|----|--------|----------|------------|
 | tinyllama_lora_r8 (v1) | 8 | 16 | 2e-4 | 3 | unweighted | ~1.35 |
