@@ -58,7 +58,7 @@ logger = logging.getLogger("finetune")
 # structure changes between runs.
 
 BASE_DIR        = Path("/kaggle/working")
-INPUT_DIR       = Path("/kaggle/input/nifty-slm-data")
+INPUT_DIR       = Path("/kaggle/input/datasets/kavyanshgupta23/nifty-market-dataset")
 INSTRUCTIONS_PATH = INPUT_DIR / "finetune_instructions.jsonl"
 OUTPUT_DIR      = BASE_DIR / "outputs"
 ADAPTER_DIR     = BASE_DIR / "lora_adapter"
