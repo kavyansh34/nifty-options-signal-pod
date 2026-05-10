@@ -75,7 +75,7 @@ ADX ok, missing field — rule 2          → reason: MISSING_FIELD:signal_id
 
 Training runs on Kaggle free-tier T4 GPU. The notebook is at:
 
-**Kaggle notebook URL:** `https://www.kaggle.com/YOUR_USERNAME/nifty-signal-pod`
+**Kaggle notebook URL:** `[Access the Notebook](https://www.kaggle.com/code/kavyanshgupta23/nifty-signal-pod-v4)`
 
 To reproduce:
 1. Upload `nifty_signal_pod.ipynb` to Kaggle
