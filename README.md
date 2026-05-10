@@ -42,7 +42,7 @@ Data files (not committed — provided by Quant Singularity):
 
 ## Kaggle notebook
 
-**URL:** `https://www.kaggle.com/kavyansh34/nifty-signal-pod-v2`
+**URL:** `[https://www.kaggle.com/kavyansh34/nifty-signal-pod-v2](https://www.kaggle.com/code/kavyanshgupta23/nifty-signal-pod-v4)`
 
 Training runs on Kaggle free-tier T4 GPU. To reproduce:
 1. Upload `nifty-signal-pod-v2.ipynb` to Kaggle
