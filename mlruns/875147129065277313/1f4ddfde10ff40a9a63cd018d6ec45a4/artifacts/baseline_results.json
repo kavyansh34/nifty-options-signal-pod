@@ -1,0 +1,218 @@
+[
+  {
+    "window": "days_31_35",
+    "directional_accuracy": 0.2391304347826087,
+    "ci_95": [
+      0.139,
+      0.379
+    ],
+    "n_total": 65,
+    "n_directional": 46,
+    "adx_suppression_rate": 0.0,
+    "parse_failure_rate": 0.2923076923076923,
+    "downgrade_rate": 0.0,
+    "calibration": {
+      "0.40-0.50": {
+        "n": 0,
+        "accuracy": null
+      },
+      "0.50-0.60": {
+        "n": 46,
+        "accuracy": 0.239
+      },
+      "0.60-0.70": {
+        "n": 0,
+        "accuracy": null
+      },
+      "0.70-0.80": {
+        "n": 0,
+        "accuracy": null
+      },
+      "0.80-1.01": {
+        "n": 0,
+        "accuracy": null
+      }
+    },
+    "calibration_monotonic": false
+  },
+  {
+    "window": "days_36_40",
+    "directional_accuracy": 0.36585365853658536,
+    "ci_95": [
+      0.236,
+      0.519
+    ],
+    "n_total": 65,
+    "n_directional": 41,
+    "adx_suppression_rate": 0.0,
+    "parse_failure_rate": 0.36923076923076925,
+    "downgrade_rate": 0.0,
+    "calibration": {
+      "0.40-0.50": {
+        "n": 0,
+        "accuracy": null
+      },
+      "0.50-0.60": {
+        "n": 41,
+        "accuracy": 0.366
+      },
+      "0.60-0.70": {
+        "n": 0,
+        "accuracy": null
+      },
+      "0.70-0.80": {
+        "n": 0,
+        "accuracy": null
+      },
+      "0.80-1.01": {
+        "n": 0,
+        "accuracy": null
+      }
+    },
+    "calibration_monotonic": false
+  },
+  {
+    "window": "days_41_45",
+    "directional_accuracy": 0.42857142857142855,
+    "ci_95": [
+      0.158,
+      0.75
+    ],
+    "n_total": 65,
+    "n_directional": 7,
+    "adx_suppression_rate": 0.8,
+    "parse_failure_rate": 0.09230769230769231,
+    "downgrade_rate": 0.0,
+    "calibration": {
+      "0.40-0.50": {
+        "n": 0,
+        "accuracy": null
+      },
+      "0.50-0.60": {
+        "n": 7,
+        "accuracy": 0.429
+      },
+      "0.60-0.70": {
+        "n": 0,
+        "accuracy": null
+      },
+      "0.70-0.80": {
+        "n": 0,
+        "accuracy": null
+      },
+      "0.80-1.01": {
+        "n": 0,
+        "accuracy": null
+      }
+    },
+    "calibration_monotonic": false
+  },
+  {
+    "window": "days_46_50",
+    "directional_accuracy": 0.3235294117647059,
+    "ci_95": [
+      0.191,
+      0.492
+    ],
+    "n_total": 65,
+    "n_directional": 34,
+    "adx_suppression_rate": 0.4,
+    "parse_failure_rate": 0.07692307692307693,
+    "downgrade_rate": 0.0,
+    "calibration": {
+      "0.40-0.50": {
+        "n": 0,
+        "accuracy": null
+      },
+      "0.50-0.60": {
+        "n": 34,
+        "accuracy": 0.324
+      },
+      "0.60-0.70": {
+        "n": 0,
+        "accuracy": null
+      },
+      "0.70-0.80": {
+        "n": 0,
+        "accuracy": null
+      },
+      "0.80-1.01": {
+        "n": 0,
+        "accuracy": null
+      }
+    },
+    "calibration_monotonic": false
+  },
+  {
+    "window": "days_51_55",
+    "directional_accuracy": 0.2549019607843137,
+    "ci_95": [
+      0.155,
+      0.389
+    ],
+    "n_total": 65,
+    "n_directional": 51,
+    "adx_suppression_rate": 0.0,
+    "parse_failure_rate": 0.2153846153846154,
+    "downgrade_rate": 0.0,
+    "calibration": {
+      "0.40-0.50": {
+        "n": 0,
+        "accuracy": null
+      },
+      "0.50-0.60": {
+        "n": 51,
+        "accuracy": 0.255
+      },
+      "0.60-0.70": {
+        "n": 0,
+        "accuracy": null
+      },
+      "0.70-0.80": {
+        "n": 0,
+        "accuracy": null
+      },
+      "0.80-1.01": {
+        "n": 0,
+        "accuracy": null
+      }
+    },
+    "calibration_monotonic": false
+  },
+  {
+    "window": "days_56_60",
+    "directional_accuracy": 0.24074074074074073,
+    "ci_95": [
+      0.146,
+      0.369
+    ],
+    "n_total": 65,
+    "n_directional": 54,
+    "adx_suppression_rate": 0.0,
+    "parse_failure_rate": 0.16923076923076924,
+    "downgrade_rate": 0.0,
+    "calibration": {
+      "0.40-0.50": {
+        "n": 0,
+        "accuracy": null
+      },
+      "0.50-0.60": {
+        "n": 54,
+        "accuracy": 0.241
+      },
+      "0.60-0.70": {
+        "n": 0,
+        "accuracy": null
+      },
+      "0.70-0.80": {
+        "n": 0,
+        "accuracy": null
+      },
+      "0.80-1.01": {
+        "n": 0,
+        "accuracy": null
+      }
+    },
+    "calibration_monotonic": false
+  }
+]

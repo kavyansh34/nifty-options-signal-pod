@@ -1,0 +1,14 @@
+artifact_uri: file:///kaggle/working/mlruns/875147129065277313/ac098e4abe6548f4925c61640cb38d83/artifacts
+end_time: 1778429413470
+entry_point_name: ''
+experiment_id: '875147129065277313'
+lifecycle_stage: active
+run_id: ac098e4abe6548f4925c61640cb38d83
+run_name: tinyllama_lora_r8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778427533297
+status: 3
+tags: []
+user_id: root

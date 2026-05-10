@@ -1,0 +1,14 @@
+artifact_uri: file:///kaggle/working/mlruns/875147129065277313/b7abc8ac1ee04c44ab2f1b6ef8c6fc6b/artifacts
+end_time: 1778438934979
+entry_point_name: ''
+experiment_id: '875147129065277313'
+lifecycle_stage: active
+run_id: b7abc8ac1ee04c44ab2f1b6ef8c6fc6b
+run_name: walk_forward_evaluation
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778438934946
+status: 3
+tags: []
+user_id: root
